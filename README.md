@@ -5,7 +5,7 @@
   -  Back-end development: C# 
 
 - :woman_technologist: Researcher in Career Transition since mar. 2022 
-- :woman_student: Studying Systems Analysis and Development
+- :woman_student: Systems Analysis & Development student
 
 <div align="center">
   <a href="https://github.com/lanyarag">
