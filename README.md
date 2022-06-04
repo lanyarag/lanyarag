@@ -1,6 +1,6 @@
 ### About me
 
-- 😄 I’m currently learning
+- 😄 I’m currently learning:
   -  Front-end development: HTML | CSS | JavaScript  
   -  Back-end development: C# 
 
