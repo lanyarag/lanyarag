@@ -1,11 +1,11 @@
-### About me
+### About me 
 
-- 😄 I’m currently learning:
+- Learning :books:: 
   -  Front-end development: HTML | CSS | JavaScript  
   -  Back-end development: C# 
 
-- :woman_technologist: Researcher in Career Transition since mar. 2022 
-- :woman_student: Systems Analysis & Development student
+- Systems Analysis & Development student  :books: :computer:
+  - In Career Transition since mar. 2022 
 
 <div align="center">
   <a href="https://github.com/lanyarag">
@@ -27,9 +27,8 @@
     
 <div>
   <a href="https://github.com/lanyarag">
-  <img height="143em" src="https://github-readme-stats.vercel.app/api?username=lanyarag&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanyarag&layout=compact&langs_count=7&theme=omni"/></a>
+    
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanyarag&layout=compact&langs_count=7&theme=omni"/></a>
   
   ![Snake animation](https://github.com/lanyarag/lanyarag/blob/output/github-contribution-grid-snake.svg)
 
