@@ -1,11 +1,10 @@
 ### About me 
 
 - Learning :books:: 
-  -  Front-end development: HTML | CSS | JavaScript  
-  -  Back-end development: C# 
+  -  Front-end development: HTML | CSS | JavaScript 
+  -  Back-end development: C# | Python
 
 - Systems Analysis & Development student  :books: :computer:
-  - In Career Transition since mar. 2022 
 
 <div align="center">
   <a href="https://github.com/lanyarag">
